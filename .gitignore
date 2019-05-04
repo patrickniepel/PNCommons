@@ -71,4 +71,6 @@ fastlane/test_output
 # MacOS
 .DS_Store
 
+# Custom scripts
+*.sh
 
