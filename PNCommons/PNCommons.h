@@ -14,6 +14,4 @@ FOUNDATION_EXPORT double PNCommonsVersionNumber;
 //! Project version string for PNCommons.
 FOUNDATION_EXPORT const unsigned char PNCommonsVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <PNCommons/PublicHeader.h>
-
 

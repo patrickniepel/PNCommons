@@ -46,7 +46,7 @@ public extension Array where Element: Hashable {
      - parameter elements: The array of elements to append
      */
     mutating func appendUnique(_ elements: [Element]) {
-        let uniques = elements.filter { !self.contains($0) }
+        let uniques = elements.filter { !contains($0) }
         self += uniques
     }
     
