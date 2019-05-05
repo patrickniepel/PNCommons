@@ -45,7 +45,13 @@ public extension Date {
         return date
     }
     
-    static func parse(_ string: String, format: String = "yyyy-MM-dd") -> Date? {
+    /**
+     Creates a date object from its string representation
+     - parameter string: The string representation of the date
+     - parameter format: The desired format of the date. The default value is 'yyyy-MM-dd'
+     - returns: The date object
+     */
+    static func create(from string: String, format: String = "yyyy-MM-dd") -> Date? {
         let dateFormatter = DateFormatter()
         dateFormatter.timeZone = NSTimeZone.default
         dateFormatter.dateFormat = format
