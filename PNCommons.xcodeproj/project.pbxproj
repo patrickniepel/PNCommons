@@ -23,6 +23,7 @@
 		A352647E227F22DC00BCC392 /* UITableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A352647D227F22DC00BCC392 /* UITableView.swift */; };
 		A3526480227F276000BCC392 /* NSObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = A352647F227F276000BCC392 /* NSObject.swift */; };
 		A3526482227F28F500BCC392 /* UICollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3526481227F28F500BCC392 /* UICollectionView.swift */; };
+		A37EF14B229923F800F5B8E0 /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37EF14A229923F800F5B8E0 /* UIImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		A352647D227F22DC00BCC392 /* UITableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableView.swift; sourceTree = "<group>"; };
 		A352647F227F276000BCC392 /* NSObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSObject.swift; sourceTree = "<group>"; };
 		A3526481227F28F500BCC392 /* UICollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionView.swift; sourceTree = "<group>"; };
+		A37EF14A229923F800F5B8E0 /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				A313847E227DE9AA00741E37 /* UIViewController.swift */,
 				A352647D227F22DC00BCC392 /* UITableView.swift */,
 				A3526481227F28F500BCC392 /* UICollectionView.swift */,
+				A37EF14A229923F800F5B8E0 /* UIImage.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				A3138471227DD66B00741E37 /* Array.swift in Sources */,
 				A313847F227DE9AA00741E37 /* UIViewController.swift in Sources */,
 				A3138473227DD67900741E37 /* UIColor.swift in Sources */,
+				A37EF14B229923F800F5B8E0 /* UIImage.swift in Sources */,
 				A3138483227E192F00741E37 /* Date.swift in Sources */,
 				A313847B227DE43400741E37 /* UserDefaults.swift in Sources */,
 				A3138479227DE31900741E37 /* Dictionary.swift in Sources */,
