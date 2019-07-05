@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = "PNCommons"
-  s.version       = "1.1.1"
+  s.version       = "1.1.2"
   s.summary       = "A short description of PNCommons."
   s.description   = "Various useful Swift functions for every occasion"
   s.license       = "MIT"
@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.source_files  = 'PNCommons/**/*.swift'
   
   s.swift_version = '5.0'
-  s.ios.deployment_target 	= '11.0'
+  s.ios.deployment_target 	= '10.0'
 end
